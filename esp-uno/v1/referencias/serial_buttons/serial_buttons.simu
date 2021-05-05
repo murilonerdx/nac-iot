@@ -1,0 +1,47 @@
+<circuit Speed_sps="1000000" animate="0" noLinAcc="5" Simu_Step_nS="1000" type="simulide_0.4" Speed_per="100" reactStep="50">
+
+Unique  Id: Node-5: 
+Circuit Id: Node-20
+<item id="Node-20" x="-464" boardRot="-1000000" objectName="Node-5" valLabely="0" y="-276" circRot="1.2906087058232773e-306" labelx="-16" mainComp="false" valLabRot="0" labely="-24" itemtype="Node" rotation="0" labelrot="0" Show_id="false" circPos="0,0" valLabelx="0" boardPos="-1e+06,-1e+06" hflip="1" vflip="1"/>
+
+Unique  Id: Push-4: 
+Circuit Id: Push-17
+<item id="Push-17" Poles="1" x="-428" boardRot="-1000000" objectName="Push-4" valLabely="0" y="-308" circRot="1.1392769308346095e-305" Key="a" labelx="-16" mainComp="false" valLabRot="0" labely="-24" itemtype="Push" rotation="0" labelrot="0" Norm_Close="false" Show_id="false" circPos="0,0" valLabelx="0" boardPos="-1e+06,-1e+06" hflip="1" vflip="1"/>
+
+Unique  Id: Ground-3: 
+Circuit Id: Ground-7
+<item id="Ground-7" x="-464" boardRot="-1000000" objectName="Ground-3" valLabely="0" y="-224" circRot="6.952508807666979e-310" labelx="-16" mainComp="false" valLabRot="0" labely="8" itemtype="Ground" rotation="0" labelrot="0" Show_id="false" circPos="0,0" valLabelx="0" boardPos="-1e+06,-1e+06" hflip="1" vflip="1"/>
+
+Unique  Id: Push-2: 
+Circuit Id: Push-5
+<item id="Push-5" Poles="1" x="-428" boardRot="-1000000" objectName="Push-2" valLabely="0" y="-260" circRot="6.952508807666979e-310" Key="s" labelx="-16" mainComp="false" valLabRot="0" labely="-24" itemtype="Push" rotation="0" labelrot="0" Norm_Close="false" Show_id="false" circPos="0,0" valLabelx="0" boardPos="-1e+06,-1e+06" hflip="1" vflip="1"/>
+
+Unique  Id: Arduino Uno-1: 
+Circuit Id: Arduino Uno-1
+<item id="Arduino Uno-1" x="-380" boardRot="-1000000" objectName="Arduino Uno-1" valLabely="0" y="-328" circRot="0" labelx="100" mainComp="false" Init_gdb="false" valLabRot="0" labely="-21" itemtype="Arduino" rotation="0" labelrot="0" varList=",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," Auto_Load="false" Show_id="true" circPos="0,0" Logic_Symbol="false" valLabelx="0" boardPos="-1e+06,-1e+06" hflip="1" eeprom="255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255" Mhz="16" Program="uno.hex" vflip="1"/>
+
+Unique  Id: SerialPort-6: 
+Circuit Id: SerialPort-22
+<item id="SerialPort-22" Port_Name="/dev/tnt0" DataBits="8" x="-412" boardRot="-1000000" objectName="SerialPort-6" Mcu_Id="Arduino Uno-1" valLabely="0" Mcu_Uart="1" y="-356" circRot="-1.9314021357828281e-181" labelx="-34" mainComp="false" Parity="0" Auto_Open="false" valLabRot="0" labely="-20" itemtype="SerialPort" rotation="0" labelrot="0" Show_id="false" circPos="0,0" FlowControl="0" StopBits="1" valLabelx="0" boardPos="-1e+06,-1e+06" hflip="1" vflip="1" BaudRate="9600"/>
+
+Unique  Id: Connector-7: 
+Circuit Id: Connector-6
+<item id="Connector-6" pointList="-412,-260,-392,-260,-392,-288,-372,-288" x="-412" boardRot="-1000000" objectName="Connector-7" valLabely="0" y="-260" circRot="9.3460979019654738e-307" labelx="-16" mainComp="false" endpinid="Arduino Uno-1-PD3" valLabRot="0" labely="-24" itemtype="Connector" rotation="0" labelrot="0" startpinid="Push-2-switch0pinN" Show_id="false" circPos="0,0" valLabelx="0" boardPos="-1e+06,-1e+06" hflip="1" vflip="1" enodeid="Circ_eNode-8"/>
+
+Unique  Id: Connector-9: 
+Circuit Id: Connector-8
+<item id="Connector-8" pointList="-464,-240,-464,-276" x="-464" boardRot="-1000000" objectName="Connector-9" valLabely="0" y="-240" circRot="0" labelx="-16" mainComp="false" endpinid="Node-5-0" valLabRot="0" labely="-24" itemtype="Connector" rotation="0" labelrot="0" startpinid="Ground-3-Gnd" Show_id="false" circPos="0,0" valLabelx="0" boardPos="-1e+06,-1e+06" hflip="1" vflip="1" enodeid="Circ_eNode-10"/>
+
+Unique  Id: Connector-11: 
+Circuit Id: Connector-18
+<item id="Connector-18" pointList="-372,-296,-388,-296,-388,-308,-412,-308" x="-372" boardRot="-1000000" objectName="Connector-11" valLabely="0" y="-296" circRot="-5.4861292832171842e+303" labelx="-16" mainComp="false" endpinid="Push-4-switch0pinN" valLabRot="0" labely="-24" itemtype="Connector" rotation="0" labelrot="0" startpinid="Arduino Uno-1-PD2" Show_id="false" circPos="0,0" valLabelx="0" boardPos="-1e+06,-1e+06" hflip="1" vflip="1" enodeid="Circ_eNode-12"/>
+
+Unique  Id: Connector-13: 
+Circuit Id: Connector-19
+<item id="Connector-19" pointList="-444,-308,-464,-308,-464,-276" x="-444" boardRot="-1000000" objectName="Connector-13" valLabely="0" y="-308" circRot="9.3872472709836843e-323" labelx="-16" mainComp="false" endpinid="Node-5-1" valLabRot="0" labely="-24" itemtype="Connector" rotation="0" labelrot="0" startpinid="Push-4-pinP0" Show_id="false" circPos="0,0" valLabelx="0" boardPos="-1e+06,-1e+06" hflip="1" vflip="1" enodeid="Circ_eNode-10"/>
+
+Unique  Id: Connector-14: 
+Circuit Id: Connector-21
+<item id="Connector-21" pointList="-464,-276,-444,-276,-444,-260" x="-464" boardRot="-1000000" objectName="Connector-14" valLabely="0" y="-276" circRot="9.3872472709836843e-323" labelx="-16" mainComp="false" endpinid="Push-2-pinP0" valLabRot="0" labely="-24" itemtype="Connector" rotation="0" labelrot="0" startpinid="Node-5-2" Show_id="false" circPos="0,0" valLabelx="0" boardPos="-1e+06,-1e+06" hflip="1" vflip="1" enodeid="Circ_eNode-10"/>
+ 
+</circuit>
